@@ -1,3 +1,7 @@
+Se por acaso, seu chrome/google, traduzir automaticamente
+recomendo que desative esta tradução por causa dos comandos
+que irão ficar em portugues, e no minecraft e em ingles!
+
 #Comandos
 aqui você irá aprender os comandos basicos do servidor!
 
@@ -77,7 +81,7 @@ você precisa de um barril, e tambem neste barril que tem o sistema de fermenta�
 mas pra frente iremos nós aprofundar neste e em outros plugins!
 
 
-#Comandos Basicos 6 | EconomyShopGui
+# Comandos Basicos 6 | EconomyShopGui
 O EconomyShopGui, e a loja do servidor!
 utilizando /shop, você irá abrir a loja do servidor, dando
 /sell
@@ -99,4 +103,13 @@ mas pra frente, terá uma lista com os itens, mas neste caso aqui
 estas informações ja são suficientes!
 
 
-
+# Comandos Basicos 7 | SimpleTpa
+este e um simples plugin de teleporte!
+/tpa <jogador>
+  este comando envia uma solicitação de teleporte ao player.
+/tpaccpet
+  este comando aceita um pedido de teleporte
+/tpadeny
+  este comando recusa um pedido de teleporte
+/back
+te teletransporta para sua ultima localização
