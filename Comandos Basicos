@@ -77,3 +77,26 @@ você precisa de um barril, e tambem neste barril que tem o sistema de fermenta�
 mas pra frente iremos nós aprofundar neste e em outros plugins!
 
 
+#Comandos Basicos 6 | EconomyShopGui
+O EconomyShopGui, e a loja do servidor!
+utilizando /shop, você irá abrir a loja do servidor, dando
+/sell
+/sellall
+/sellgui
+
+bem, o /sell
+ele vende o item em que você estiver segurando na mão
+o /sellall
+ele vende todos os itens em que estiver no seu inventario
+/sellgui
+abre uma U.I muito boa onde você escolhe qual iten, e quantidade
+do item você quer vender
+
+ok, mas qual itens são esses?
+ bem, assim como você comprar itens na loja poderá vender para ganhar
+Jam, nâo são todos os itens que vão see vendido.
+mas pra frente, terá uma lista com os itens, mas neste caso aqui
+estas informações ja são suficientes!
+
+
+
