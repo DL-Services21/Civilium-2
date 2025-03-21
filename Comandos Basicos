@@ -1,0 +1,46 @@
+#Comandos
+aqui você irá aprender os comandos basicos do servidor!
+
+# Comando Basico 1 | MSG
+/msg <player> <msg>
+   exemplo:
+     /msg .King7776069 olá men
+   outro exemplo
+    /msg King7776069 olá men
+Explicação:
+ /msg = comando
+
+<player> = o jogador a quem você quer enviar a mensagem, note que
+em um exemolo antes da 1 letra do nome tem um "." isso ocorre pois
+no servidor tem um plugin chamado GeyserMc, então toda pessoa que jogar
+minecraft bedrock, vai ter antes do nome dela um "." então fique com este
+outro exemplo: /msg .King7776069 Olá, bro, coloquei um ponto antes do nome
+dele pois ele é bedrock mas caso for java ficaria assim:
+/msg amigoJAVA olá java!, então vocês entendem que para mandar mensagem para
+bedrock utiliza "." antes do nome, mandar mensagem para um java, não se  utiliza
+nada.
+
+<msg> a mensagem que você deseja enviar para a pessia
+
+
+# Comando Basico 2 | The New Economy
+  quero te dizer que a moeda do nosso servidor se chama
+Jam, o simbolo dela é "₩".
+então sabendo disso aqui vão alguns comandos basicos deste plugin de money.
+/mybal
+ este comando abre uma U.I, com um papel, se você clicar neste papel  irá
+exibir algumas informações da nossa moeda e quanto você tem.
+
+/pay <jogador> <quantia>
+  este comando ele é o nosso "Pix", con ele você pode transferir dinheiro
+para outros jogadores, explicação
+/pay = comando
+
+<jogador> = jogador a quem você quer fazer o "Pix". Não se esqueça de colocar um
+ponto caso o player for bedrock.
+
+<quantia> = a quantidade de Jams que você quer transferir para a outra 
+pessoa, cada pessoa começa com 100 jams.
+
+A gente prioroza nossa Moeda, então e a moeda Jam, e bem escassa mas
+valorizada, então recomendo que arrumem alguma forma de ganhar Jams.
